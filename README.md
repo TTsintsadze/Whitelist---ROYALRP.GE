@@ -1,5 +1,3 @@
 # Whitelist---ROYALRP.GE
 
-<picture>
-  <source media="Whitelist" srcset="https://imgur.com/qhAQ2iR.png">
-</picture>
+<img src="[https://your-image-url](https://imgur.com/qhAQ2iR).png" alt="RoyalRp.Ge Whitelist">
